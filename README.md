@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Praveenkanth G
 
-<!--
-**Praveenkanth2805/praveenkanth2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Aspiring Full-Stack Developer | UI/UX Enthusiast | Code Lover**
 
-Here are some ideas to get you started:
+I'm passionate about building websites that are not only functional but also beautifully crafted. I enjoy writing clean front-end interfaces and logical back-end systems. I believe in learning by building and growing every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- 🎨 **Front-End:** HTML, CSS, JavaScript, Tailwind CSS, React
+- 🔧 **Back-End:** PHP, Java, MySQL
+- 🧠 **Currently Learning:** React, REST APIs, Java frameworks
+- 🛠️ **Focus:** Responsive Web Design & Real-World Projects
+
+---
+
+## 📫 Contact Me
+
+- **Email:** praveenkanth2805@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/praveenkanth2805?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
+
+## 📈 GitHub Stats
+
+![Praveenkanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkanth&show_icons=true&theme=tokyonight)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House

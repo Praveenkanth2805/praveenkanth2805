@@ -39,7 +39,6 @@ I believe in learning by building real-world projects and continuously improving
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkanth&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Stats](https://github-readme-stats.vercel.app/api?username=praveenkanth&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*

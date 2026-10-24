@@ -100,6 +100,7 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 ## 🏆 Achievements & Certifications
 
+*   **Hacktoberfest Contributor (Oct 2025):** Successfully contributed to open-source projects and earned the official Hacktoberfest t-shirt.
 *   **1st Prize - College 2.0 (Sep 2025):** Built a "Staff Schedule Reminder System" digital solution.
 *   **Python with GenAI (May 2025 - Apr 2026):** Course completion certificate from **VGLUG Foundation**.
 *   **1st Prize - Department Quiz Competition (2023):** Secured first place during the college department function.
